@@ -1,0 +1,33 @@
+﻿[
+  {
+    "question": "A farmer has 17 sheep and all but nine die. How many are left?",
+    "answer": "9",
+    "wrongAnswer1": "0",
+    "wrongAnswer2": "17",
+    "wrongAnswer3": "26"
+  },
+
+  {
+    "question": "Which is heavier? A pound of feathers or a pound of rocks?",
+    "answer": "Neither. Both weigh a pound!",
+    "wrongAnswer1": "A pound of feathers",
+    "wrongAnswer2": "A pound of rocks",
+    "wrongAnswer3": "No answer"
+  },
+
+  {
+    "question": "What is full of holes but can still hold water?",
+    "answer": "A sponge",
+    "wrongAnswer1": "A cloth",
+    "wrongAnswer2": "A pipe",
+    "wrongAnswer3": "A rock"
+  },
+
+  {
+    "question": "Before Mt. Everest was discovered, what was the highest mountain in the world?",
+    "answer": "Mt. Everest",
+    "wrongAnswer1": "Mt Lhotse",
+    "wrongAnswer2": "Mt Kangchenjunga",
+    "wrongAnswer3": "Mt sinai"
+  }
+]

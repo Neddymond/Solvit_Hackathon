@@ -1,0 +1,33 @@
+﻿[
+  {
+    "question": "Give me food, and I will live; give me water, and I will die. What am I?",
+    "answer": "Fire",
+    "wrongAnswer1": "Ant",
+    "wrongAnswer2": "worm",
+    "wrongAnswer3": "Flies"
+  },
+
+  {
+    "question": "Which travels faster? Hot or Cold?",
+    "answer": "Hot is faster, because you can catch a cold.",
+    "wrongAnswer1": "cold",
+    "wrongAnswer2": "None",
+    "wrongAnswer3": "Both"
+  },
+
+  {
+    "question": "What can you hold without ever touching or using your hands?",
+    "answer": "Your breadth",
+    "wrongAnswer1": "Money",
+    "wrongAnswer2": "Tongue",
+    "wrongAnswer3": "Your life"
+  },
+
+  {
+    "question": "First, I threw away the outside and cooked the inside. Then I ate the outside and threw away the inside. What did I eat?",
+    "answer": "Corn on the cob",
+    "wrongAnswer1": "The outside",
+    "wrongAnswer2": "The inside",
+    "wrongAnswer3": "Nothing"
+  }
+]
