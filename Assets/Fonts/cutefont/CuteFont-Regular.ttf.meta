@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 339cc9b21a6962a42adec6b5ced06de8
+timeCreated: 1567301822
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cute Font
+  fontNames:
+  - Cute Font
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9e3a5a286c2aee049aa99a2e9f53bd98, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
